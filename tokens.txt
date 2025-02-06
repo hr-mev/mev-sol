@@ -1,0 +1,7 @@
+# Solana Token Configuration
+# Format: TokenName: TokenAddress
+SOL: So11111111111111111111111111111111111111112
+USDC: EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v
+JUP: JUPyiwrYJFskUPiHa7hkeR8VUtAeFoSYbKedZNsDvCN
+BONK: DezXAZ8z7PnrnRJjz3wXBoRhwDo4K4RywtXh15Hqw5x1
+PYTH: HZ1JovNiVvGeDVnwvF9cgwMYyTzk1qoENqzJkzv97Qak
